@@ -1,2 +1,2 @@
 # company-code
-dashboard for company project code
+dashboard for company project codes
